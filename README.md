@@ -2,7 +2,7 @@
 
 ## 🚀 Drupal Consultant | Full-Stack Developer | Performance & Scalability Expert
 
-With over a decade of experience in Drupal development, I specialize in building scalable, high-performance web solutions for enterprise, higher education, and content-driven organizations. I have worked with clients such as Carnegie Mellon University, Lenovo, United Nations or Cornell University, delivering tailored solutions that optimize performance, enhance user experience, and drive business goals.
+With over a decade of experience in Drupal development, I specialize in building scalable, high-performance web solutions for enterprise, higher education, and content-driven organizations. I have worked with clients such as Carnegie Mellon University, Lenovo, United Nations, Honda or Cornell University, delivering tailored solutions that optimize performance, enhance user experience, and drive business goals.
 
 ### 🔧 What I Do
 - **Custom Drupal Development** – Advanced theming, custom modules, API integrations
